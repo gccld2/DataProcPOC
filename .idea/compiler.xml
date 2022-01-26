@@ -7,11 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DataProcPOC" />
-        <module name="data-proc-poc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DataProcPOC" target="1.8" />
+      <module name="data-proc-poc" target="1.8" />
       <module name="spark-streaming-pubsub-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -22,7 +22,7 @@
     </properties>
 
     <groupId>gcp</groupId>
-    <artifactId>data-proc-poc</artifactId>
+    <artifactId>DataProcPOC</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
